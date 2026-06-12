@@ -9,42 +9,52 @@
 
 ## Проекты
 
-### 1. Functional Testing
-Сайт: Automation Exercise
-
-Содержимое:
-- Checklist
+### 1. Web Application Testing
+Documentation:
+- Checklists
 - Test Cases
-- Bug Reports
+- Bug Reporting
 - Test Report
 
-### 2. API Testing
-Инструменты:
+### 2. API Validation
+- REST API
 - Postman
-- Reqres API
-- Restful Booker
+- Swagger
+- Error handling
+- Positive tests
+- Negative tests
+- Boundary values
+- Authentication tests
+- Validation rules
+- Error handling
 
-### 3. DevTools Testing
-Инструменты:
+### 3. DevTools
 - Chrome DevTools
 - Network
 - Console
 - Responsive Mode
 
-### 4. SQL Validation
-Проверки:
-- JOIN
-- GROUP BY
-- HAVING
-- Data Quality Validation
+### 4. Database Validation
+- Проверка отсутствия дубликатов пользователей
+- Проверка корректности заказов
+- Проверка связности данных
+- Сверка данных между таблицами
+(JOIN, GROUP BY, HAVING, aggregate functions)
 
-## Навыки
-
-- Manual Testing
+## Testing Documentation
+- Functional Testing
+- Regression Testing
+- Smoke Testing
 - API Testing
-- SQL
-- Postman
+- Postman/Swagger
+- Database Testing (SQL)
 - DevTools
-- Bug Reporting
-- Test Cases
-- Checklists
+- Cross-browser Testing
+
+
+
+
+
+
+
+
