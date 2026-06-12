@@ -39,11 +39,14 @@
 - Functional Testing
 - Regression Testing
 - Smoke Testing
-- API Testing
+- Postman
+- Swagger
 - Database Testing (SQL)
 - UI Testing
 - Cross-browser Testing
-
+- Jira
+- Confluence
+- GitHub
 
 
 
