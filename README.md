@@ -26,18 +26,21 @@
 - Authentication tests
 - Validation rules
 
-### 3. Browser Testing
+### 3. Database Validation (SQL)
+- Проверка отсутствия дубликатов пользователей
+- Проверка корректности заказов
+- Проверка связности данных
+- Сверка данных между таблицами
+
+(SELECT, JOIN, GROUP BY, HAVING, aggregate functions)
+
+### 4. Browser Testing
 - Chrome DevTools
 - Network Request Analysis
 - Frontend Error Investigation
 - Responsive Testing
 
-### 4. Database Validation (SQL)
-- Проверка отсутствия дубликатов пользователей
-- Проверка корректности заказов
-- Проверка связности данных
-- Сверка данных между таблицами
-(SELECT, JOIN, GROUP BY, HAVING, aggregate functions)
+
 
 ## Skills
 - Functional Testing
