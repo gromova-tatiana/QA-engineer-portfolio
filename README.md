@@ -33,7 +33,7 @@
 - Проверка корректности заказов
 - Проверка связности данных
 - Сверка данных между таблицами
-(JOIN, GROUP BY, HAVING, aggregate functions)
+(SELECT, JOIN, GROUP BY, HAVING, aggregate functions)
 
 ## Skills
 - Functional Testing
