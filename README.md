@@ -9,14 +9,13 @@
 
 ## Проекты
 
-### 1. Web Application Testing
-Documentation:
+### 1. Functional Testing
 - Checklists
 - Test Cases
 - Bug Reporting
 - Test Report
 
-### 2. API Validation
+### 2. API Testing
 - REST API
 - Postman
 - Swagger
@@ -28,27 +27,26 @@ Documentation:
 - Validation rules
 - Error handling
 
-### 3. DevTools
+### 3. Browser Testing
 - Chrome DevTools
 - Network
 - Console
 - Responsive Mode
 
-### 4. Database Validation
+### 4. Database Validation (SQL)
 - Проверка отсутствия дубликатов пользователей
 - Проверка корректности заказов
 - Проверка связности данных
 - Сверка данных между таблицами
 (JOIN, GROUP BY, HAVING, aggregate functions)
 
-## Testing Documentation
+## Skills
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - API Testing
-- Postman/Swagger
 - Database Testing (SQL)
-- DevTools
+- UI Testing
 - Cross-browser Testing
 
 
